@@ -1,0 +1,1 @@
+This repo contains my attempts at creating ai agents to perform different tasks. It currently contains a simple search agent that uses DuckDuckGo search tool to find information instead of hallucinating.
